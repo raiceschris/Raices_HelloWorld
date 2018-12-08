@@ -1,0 +1,7 @@
+package helloWorld;
+
+public class HelloReturn {
+	public String hey() {
+		return "Hello World";
+	}
+}
